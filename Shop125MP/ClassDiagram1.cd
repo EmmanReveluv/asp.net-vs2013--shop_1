@@ -1,0 +1,74 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1" MembersFormat="FullSignature">
+  <Class Name="Shop125MP.adminhome">
+    <Position X="0.5" Y="0.5" Width="3.5" />
+    <TypeIdentifier>
+      <HashCode>AIAAAAAAAAAAAIAAAAAAAAAAAAAQAAAAAAAAACIAAAA=</HashCode>
+      <FileName>adminhome.aspx.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Shop125MP.adminmessages">
+    <Position X="4.5" Y="0.5" Width="3.5" />
+    <TypeIdentifier>
+      <HashCode>AIAAAAAAAAAAAIAAAAAAAAAAAAAQAAAAAAAAACIAAAA=</HashCode>
+      <FileName>adminmessages.aspx.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Shop125MP.cart">
+    <Position X="8.5" Y="0.5" Width="3.5" />
+    <TypeIdentifier>
+      <HashCode>AAAQAACAAQAAAIAAAAAAAAAAgAAQACAAgAAAICMAQQA=</HashCode>
+      <FileName>cart.aspx.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Shop125MP.catalog">
+    <Position X="0.5" Y="3" Width="3.75" />
+    <TypeIdentifier>
+      <HashCode>AgAAAAQAAAAAAIAAAAAgAAAAAAAUACAAAAAAACMAAAA=</HashCode>
+      <FileName>catalog.aspx.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Shop125MP.categories">
+    <Position X="12.5" Y="6.25" Width="3.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAIAAAAAAAAAAAAAQACAAAAAAACMAAAA=</HashCode>
+      <FileName>categories.aspx.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Shop125MP.checkout">
+    <Position X="4.75" Y="3" Width="3.5" />
+    <TypeIdentifier>
+      <HashCode>AQAAQAAAAAAAAIgAAAAIAUAAAgAQAKAAAAAAACMAAAQ=</HashCode>
+      <FileName>checkout.aspx.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Shop125MP.filter">
+    <Position X="4.75" Y="8" Width="3.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAQAAAAAAJAAAAAAAAAAAAAQACAAAAAAACMAAAA=</HashCode>
+      <FileName>filter.aspx.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Shop125MP.home">
+    <Position X="8.5" Y="4.75" Width="3.75" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAQEAAAAAIAQQAAAAAAAIAAQAKAIAAAAACMAAgY=</HashCode>
+      <FileName>home.aspx.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Shop125MP.index">
+    <Position X="12.5" Y="0.5" Width="4.25" />
+    <TypeIdentifier>
+      <HashCode>AAoAAAAAACACAoACAIAAAIAAIAQQAKAAAAAAACMAAgQ=</HashCode>
+      <FileName>index.aspx.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Shop125MP.viewproduct">
+    <Position X="0.5" Y="6.5" Width="3.5" />
+    <TypeIdentifier>
+      <HashCode>gABAAEQAAAABAJAAQEAAAAAQAAABACRAAgAAACMIAQA=</HashCode>
+      <FileName>viewproduct.aspx.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
